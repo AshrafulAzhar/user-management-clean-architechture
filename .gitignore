@@ -1,0 +1,42 @@
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE - VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Mono auto generated files
+mono_crash.*
+
+# Nested Binaries
+[Tt]est[Cc]onfessions/
+[Aa]ssets/[Ss]tripped/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Rider
+.idea/
+
+# Dotnet
+.dotnet/
